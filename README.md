@@ -1,2 +1,2 @@
-# EPAM
-EPAM DevOps demo repository
+# EPAM git demo repo
+EPAM DevOps demo renewed repository
