@@ -1,0 +1,2 @@
+just changed global user.name
+
